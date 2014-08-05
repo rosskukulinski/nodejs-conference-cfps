@@ -1,4 +1,4 @@
-NodeJS and Javascript Conference Call for Papers
+NodeJS and Javascript Conference Call for Presentations
 ===============
 
 This is a curated list of upcoming conference CFPs relating to NodeJS and Javascript.  Last updated August 4, 2014. PRs welcome for other conferences & events.
